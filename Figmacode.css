@@ -314,10 +314,12 @@ color: grey;
 }
 .centre{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 20px;
 }
 .centre img{
     border-radius: 50%;
+    height:50px;
+    width: 50px;
 
 }
 .centre h6{
