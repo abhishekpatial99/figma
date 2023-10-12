@@ -1,0 +1,989 @@
+* {
+    margin: 0px 10px 0px 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+background-color: rgb(211, 205, 205);
+}
+@media only screen and (max-width: 992px) {
+    
+    [class*= "continer-"] {
+        float:none;
+    width: 100%;
+    
+    
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    
+    [class*= "continer-"] {
+        float:none;
+    width: 100%;
+    
+    
+    }
+  }
+.continer-1{
+    background-color: white;
+    margin-bottom: 30px;
+    height: 400px;
+}
+.continer2{
+    display: flex;
+    justify-content: space-between;
+}
+.he a{
+        color: grey;
+        text-decoration: none;   
+    }
+
+.signin{
+    background: transparent;
+    border-color: transparent;
+    }
+.signIn{
+    background-color: aqua;
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+    }
+.content1{
+    display: flex;
+    justify-content: center;
+    
+}
+.content{
+    margin-top: 80px;
+}
+
+.content h1{
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgb(5, 5, 48);
+        font-size: xx-large;
+        font-weight: 700;
+        
+        
+    }
+.phase1 p{
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    
+.now{
+        text-align: center;
+        margin: 50px 0px 50px 0px;
+        
+    }
+.now button{
+        color: white;
+        border-radius: 20px;
+        border-color: transparent;
+        background-color: aqua;
+        padding: 8px 20px 8px 20px;
+    
+    }
+.now p{
+        margin-top: 10px;
+        color: aqua;
+    }
+.cont33{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;       
+    }
+
+    
+.logo1 h4{
+        color:white;
+    }
+.next1{
+        background-color:blueviolet;
+        color: white;
+        border-radius: 10px;
+        border-color: transparent;
+        padding: 0px 8px 0px 8px;
+        
+    }
+.continer-2{
+    padding: 10px;
+        background-color:rgb(55, 16, 91) ;
+
+        
+    }
+ .cont33{
+    padding-top: 20px;
+ }   
+.cont1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+        color: white;
+        
+    }
+
+.cont2 h1{
+        text-align: center;
+        font-size: xx-large;
+        
+        
+    }
+ .wrapper{
+    color: white;
+ }   
+.phase10 p{
+        margin-bottom: 5px;
+        text-align: center;
+    
+    }
+    
+.now1{
+        text-align: center;
+        margin: 50px 0px 50px 0px;
+        
+    }
+.now1 button{
+        color: white;
+        border-radius: 20px;
+        border-color: transparent;
+        background-color: aqua;
+        padding: 8px 20px 8px 20px;
+    }
+.now1 input{
+        background-color: transparent;
+        border-color: grey;
+        padding: 10px;
+        border-radius: 20px;
+    }
+.now1 h6{
+    text-align: center;
+        margin-top: 10px;
+        color: grey;
+    }    
+.continer-3{
+    background-color: white;
+    margin-top: 30px;
+    height: 500px;
+    padding: 10px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding:10px ;
+}
+.nav1{
+    display: flex;
+}
+.nav1 a{
+    color: grey;
+}
+.nav2 button{
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+    background-color: aqua;
+    border-color: transparent;
+}
+.nav2 a{
+    color: grey;
+}
+.content-2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.conte2 input{
+margin: 10px;
+padding: 10px;
+width: 80%;
+border-radius: 10px;
+border-color:gray;
+}
+.conte2 button{
+    width: 85%;
+    padding: 8px;
+    border-radius:20px ;
+    background-color: aqua;
+    color: white;
+    border-color: transparent;
+    margin-bottom: 10px;
+}
+.conte2 h6{
+    text-align: center;
+    font-size: small;
+}
+.continer-4{
+    background-color: white;
+    margin-top: 40px;
+    height:550px;
+    padding: 10px;
+}
+.nav-1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.nav-2{
+    display: flex;
+    
+}
+.nav-2 a{
+    color: grey;
+}
+
+
+.conte34{
+    text-align: center;
+    margin-top: 100px;
+}
+.conte34 h1{
+    font-size: x-large;
+    
+}
+.conte34 img{
+    margin-top: 30px;
+}
+.continer-5{
+    background-color: white;
+    margin-top: 30px;
+    height: 650px;
+    padding: 10px;
+}
+.nav20{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px 0px ;
+}
+.nav22 a{ 
+margin-left: -5px;
+color: grey;
+}
+.content-222{
+    margin-top: 30px;
+    text-align: center;
+}
+.content-222 button{
+    margin-top: 10px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: aqua;
+
+}
+.imge{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.divide{
+    margin-top: 60px;
+    display: flex;
+}
+.sets{
+    text-align: center;
+}
+.continer-6{
+    background-image: url(image1230.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+    height: 400px;
+    margin-top: 30px;
+}
+.nav30{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding-top:20px ;
+    
+}
+.nav1234 input{
+    color: white;
+    background-color: aqua;
+    padding: 8px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.center12{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.centre{
+    text-align: center;
+    margin-top: 100px;
+}
+.centre img{
+    border-radius: 50%;
+
+}
+.centre h6{
+    text-align: center;
+    color: white;
+    
+}
+.continer-7{
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.justi-1{
+    display: flex;
+    justify-content: space-between;
+}
+.seting img{
+margin-right: -10px;
+}
+.justi-7{
+    margin-top: 50px;
+}
+.justi-7 h6{
+    color: grey;
+}
+.justi-4{
+    background-color: aqua;
+    color: white;
+}
+.justi-7 button{
+    margin: 20px 0px 10px 0px;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+.continer-8{
+    background-image: url(image1230.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.nav71{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 10px;
+}
+.nav-72{
+    margin-top: 130px;
+    text-align: center;
+    color: white;
+}
+.justi-3 a{
+    color: grey;
+    
+}
+.nav-72 h3{
+    margin-bottom: 10px;
+}
+.nav-72  button{
+background-color: blueviolet;
+color: white;
+padding: 10px;
+border-radius: 10px;
+border-color: transparent;
+}
+.nav-73{
+    margin: 20px 0px 50px;
+}
+.continer-9{
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px;
+    height:400px;
+}
+.justify-5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.justify-6{
+    margin-top: 80px;
+}
+.nav81{
+display: flex;
+justify-content: space-between;
+}
+.justify-7{
+    margin-top: 80px;
+}
+.justify-8 button{
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    border-color: transparent;
+background-color: blueviolet;}
+.jusyjh12{
+    margin-top: 10px;
+}
+.gnvbn a{
+color: grey;
+}
+.continer-10{
+    background-color: rgb(53, 19, 86);
+    margin-top: 30px; color: white;
+    padding: 10px;
+    height: 400px;
+}
+.nav91{
+    display: flex;
+    justify-content: space-between;
+}
+.nav92{
+    display: flex;
+}
+.nav98{
+    margin-top: 50px;
+    text-align: center;
+}
+.nav99{
+    padding: 10px;
+    border-radius: 20px;
+    border-color: transparent;
+    background-color: aqua;
+    color: white;
+    margin-top: 30px;
+
+}
+.anchk a{
+    color: grey;
+}
+.bgh button{
+    background-color: blueviolet;
+    border-radius: 20px;
+    border-color:transparent;
+    padding: 10px;
+    color: white;
+}
+.nav97{
+    margin-top: 20px;
+}
+.prods a{
+    color: grey;
+}
+.nav100{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.continer-11{
+    background-color: white;
+    padding: 10px;
+    margin-top: 30px;
+    height: 400px;
+}
+.nav101{
+    display: flex;
+    justify-content: space-between;
+}
+.nav101 button{
+    color: white;
+    background-color: rgb(50, 14, 83);
+    border-color: transparent;
+    border-radius: 10px;
+    padding: 10px;
+}
+.jusyjh1214{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.jusyjh1215{
+    margin: 20px;
+}
+.justify-11{
+    margin-top: 50px;
+}
+.justify-11 button{
+    color: white;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: transparent;
+}
+.justify-13{
+    margin-top: 20px;
+}
+.justify-11 a{
+    color: rgb(30, 13, 47);
+}
+.continer-12{
+    background-color: rgb(34, 18, 49);
+    padding: 10px;
+    margin-top: 30px;
+    color: white;
+}
+.justi-98{
+    display: flex;
+    justify-content: space-between;
+    margin:50px;
+}
+.justi-98 h5{
+    margin-bottom: 20px;
+}
+.justi-98 h1{
+    margin-bottom: 10px;
+}
+.justi-99 button{
+    margin-top: 50px;
+    color: white;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 1lh;
+    border-color: transparent;
+}
+.just67 i{
+    color: white;
+}
+.knu i{
+    color: grey;
+}
+.continer-13{
+    background-image: url(image1230.jpg);
+    margin-top: 30px;
+    padding: 10px;
+    height:400px;
+}
+.justi-23{
+    display: flex;
+    justify-content: space-between;
+}
+.feature a{
+    color: grey;
+}
+.signin1 button{
+    color: white;
+    background-color: rgb(33, 26, 74);
+    padding: 10px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.justi-25 h1{
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+}
+.justi-24{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.justi-26{
+    margin-top: 80px;
+}
+.jusyjh12145{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.jusyjh12156{
+    margin: 20px;
+}
+.justify-144 p{
+    margin-bottom: 5px;
+}
+.justify-15 button{
+    margin-top: 50px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.continer-14{
+    background-color: rgb(37, 23, 51);
+    padding: 10px;
+    color: white;
+    margin-top: 30px;
+}
+.justi-28{
+    color: black;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+.justi-28  input{
+    padding-bottom:10px ;
+    margin: 10px 0px 10px;
+    
+}
+.justu-2 input{
+    padding: 10px 30px 0px 10px;
+}
+.justu-3 button{
+    background-color: rgb(39, 24, 53);
+    color: white;
+    padding: 8px 80px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+.justi-29 button{
+    background-color: skyblue;
+}
+.justi-29{
+    padding: 10px;
+}
+.justi-29 a{
+    color: skyblue;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.justu-2 input{
+    border-radius: 20px;
+    border-color: rgb(216, 212, 212);
+
+}
+.continer-15{
+    background-color: white;
+    padding: 10px;
+    margin-top: 30px;
+    
+
+}
+.justi-234{
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+.signin12 button{
+    color: white;
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.signin12 a{
+    color: aqua;
+}
+.justi-265{
+    margin-top: 50px;
+}
+.justi-255 h1{
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+}
+.justi-245{
+    color: grey;
+    text-align: center;
+    margin-top: 20px;
+}
+.justi-245 button{
+    color: white;
+    margin-top: 10px;
+    background-color: red;
+    padding: 10px;
+    border-color: transparent;
+    border-radius: 20px;
+}
+.justi12{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.justi12 h6{
+    text-align: center;
+}
+.continer-16{
+    margin-top: 30px;
+    padding: 10px;
+    background-image:url(image1230.jpg) ;
+    background-position: center;
+    background-size: cover;
+}
+
+.nav811{
+        display: flex;
+        justify-content: space-between;
+        }
+.nav811 h1,a{
+    color: white;
+    
+}
+.justify-55{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    
+}
+.justify-77{
+    margin-top: 70px;
+}
+.justify-77 h1{
+font-weight:bold ;
+margin-bottom: 8px;
+
+}
+.justify-55 h1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+.justify-81{
+    display: flex;
+}
+.justify-81 button{
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: rgb(37, 23, 50);
+    border-color: transparent;
+    background-color: white;}
+.hihi button{
+        background-color: transparent;
+        color: white;
+        border-radius: 10px;
+        border-color: grey;
+    }
+.nav8111{
+        display: flex;
+        justify-content: space-between;
+        }
+.nav8111 h1,a{
+    color: white;
+    
+}
+.justify-777{
+    margin-top: 70px;
+}
+.continer-17{
+    margin-top: 30px;
+    padding: 10px;
+    background-image: url(image1230.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+.nbh{
+    display: flex;
+
+}
+.nbh a{
+    margin-top: 8px;
+}
+.justify-812{
+    margin-top: 50px;
+    display: flex;
+}
+.justify-812 h5{
+    margin-bottom: 10px;
+}
+.ghj img{
+    margin-right: -30px;
+    margin-top: 50px;
+}
+.just67  button{
+background-color: aqua;
+color: white;
+padding: 10px;
+border-radius: 10px;
+border-color: transparent;
+}
+.continer-18{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: rgb(46, 23, 68);
+    height: 450px;
+}
+.contr{
+    display: flex;
+    margin-top: 50px;
+    color: white;
+}
+.contr h1{
+    margin-bottom: 20px;
+}
+.contr button{
+    padding: 10px;
+    color:white;
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: transparent;
+    margin-bottom: 10px;
+
+}
+.hnnhmk{
+    text-align: center;
+    margin-top: 30px;
+}
+.fghjk{
+    text-align: center;
+}
+.fghjk a{
+    color: grey;
+    margin-top: 10px;
+}
+.continer-19{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: white;
+    height: 450px;
+}
+
+.kin{
+    margin-top: 50px;
+    color:gray;
+}
+.kin1 h1{
+color: black;
+
+}
+.bt i{
+    float: right;
+}
+.btn button{
+    color: white;
+margin-top: 20px;
+background-color: rgb(63, 39, 86);
+padding: 10px;
+border-radius: 20px;
+border-color: transparent;}
+.justify-552{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.continer-20{
+    background-color: rgb(90, 51, 126);
+    margin-top: 30px;
+    padding: 10px;
+    height: 450px;
+}
+.ghj-2{
+    color: white;
+}
+.kin2 h1{
+    font-size: xx-large;
+}
+.kin3{
+    margin-top: 20px;
+}
+.btn-1 button{
+    color: white;
+margin-top: 20px;
+background-color:aqua;
+padding: 10px;
+border-radius: 20px;
+border-color: transparent;
+}
+
+.continer-21{
+    background-image:url(image1230.jpg);
+    margin-top: 30px;
+    padding: 10px;
+    height: 450px;
+}
+.signin145{
+    display: flex;
+}
+.butn1 button{
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    border-color: gray;
+    background-color: transparent;
+}
+.butn button{
+    border-radius: 20px;
+    padding: 10px;
+    border-color: transparent;
+    background-color: rgb(113, 63, 159);
+
+  
+}
+.satrt{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.satrt h1{
+    font-size: xx-large;
+}
+.mnhg{
+    text-align:center;
+    margin-top: 50px;
+}
+.mnhg img{
+    border-radius: 50%;
+}
+.pasha{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+   margin-top: 50px;
+}
+.pasha h4{
+    margin-bottom: 20px;
+}
+.home2 a{
+color: grey;
+}
+.skij{
+    display: flex;
+    color: white;
+}
+.continer-22{
+    background-image: url(image1230.jpg);
+    height: 450px;
+    margin-top: 30px;
+    padding: 10px;
+}
+.signin1455 button{
+padding: 10px;
+background-color: transparent;
+color: white;
+border-color: gray;
+border-radius: 20px;
+}
+.hubble{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.hubble h1{
+    margin-bottom: 20px;
+    font-size: xx-large;
+}
+.ser{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+.ser input{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: rgb(178, 171, 171);
+}
+.ser button{
+    padding: 10px;
+    border-radius: 20px;
+    border-color: transparent;
+    color: white;
+    background-color: rgb(242, 47, 47);
+}
+.last{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.brandss{
+    text-align: center;
+    margin-top: 20px;
+}
+.brandss i{
+    color: white;
+}
